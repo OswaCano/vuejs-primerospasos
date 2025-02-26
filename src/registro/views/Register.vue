@@ -47,4 +47,8 @@ const onSubmit = () => {
 .form {
   margin-bottom: 10px;
 }
+.Field {
+  display: inline-block;
+  border-bottom-color: #4b0000;
+}
 </style>
