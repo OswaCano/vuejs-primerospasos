@@ -1,5 +1,5 @@
 <template>
-{{ store.temperature }}
+  <h1>La temperatura actual es: {{ store.temperature }} °C</h1>
 </template>
 
 <script setup>
